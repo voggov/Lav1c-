@@ -1,0 +1,14 @@
+D:\ПТУ\Синев дорошенко\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+D:\ПТУ\Синев дорошенко\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+D:\ПТУ\Синев дорошенко\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+D:\ПТУ\Синев дорошенко\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+D:\ПТУ\Синев дорошенко\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+D:\ПТУ\Синев дорошенко\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+D:\ПТУ\Синев дорошенко\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.AssemblyReference.cache
+D:\ПТУ\Синев дорошенко\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПТУ\Синев дорошенко\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+D:\ПТУ\Синев дорошенко\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+D:\ПТУ\Синев дорошенко\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+D:\ПТУ\Синев дорошенко\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+D:\ПТУ\Синев дорошенко\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+D:\ПТУ\Синев дорошенко\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
